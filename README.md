@@ -7,6 +7,7 @@ adapter and displays selected engine parameters.
 ⸻
 
 Features
+
 	•	Real-time OBD-II data acquisition via Bluetooth (ELM327)
 	•	TFT-based data visualization (ESP32-CYD / external TFT during experiments)
 	•	Standard OBD-II PIDs (limited subset)
@@ -14,6 +15,7 @@ Features
 	•	Tested on BMW E87 118d
 
 Displayed parameters include:
+
 	•	Engine coolant temperature
 	•	Engine oil temperature
 	•	Manifold absolute pressure (boost estimation)
